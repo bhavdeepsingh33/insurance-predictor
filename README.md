@@ -1,5 +1,7 @@
 <div align="center"><h1>Insurance Amount Predictor</h1></div>
+
 ---
+
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen) 
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg) ![Heroku](https://img.shields.io/badge/Deployment-Heroku-yellow) 
 ![Framework](https://img.shields.io/badge/Web--Framework-Flask_1.1.2-green)
