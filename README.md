@@ -1,4 +1,4 @@
-<div align="center"><h1>Insurance Amount Predictor</h1></div>
+<div align="center"><h1>INSURANCE AMOUNT PREDICTOR</h1></div>
 
 ---
 
