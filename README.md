@@ -1,5 +1,4 @@
 <div align="center"><h1>Insurance Amount Predictor</h1></div>
-
 ---
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen) 
