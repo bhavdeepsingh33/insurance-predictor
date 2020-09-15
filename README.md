@@ -1,9 +1,12 @@
 <div align="center"><h1>Insurance Amount Predictor</h1></div>
+
 ---
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen) 
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg) ![Heroku](https://img.shields.io/badge/Deployment-Heroku-yellow) 
 ![Framework](https://img.shields.io/badge/Web--Framework-Flask_1.1.2-green)
+
+---
 
 ### Background
 Using the general information such as age, height, weight and whether he/she is a smoker or not, a regression model is built and using the model we predict the insurance charges that a person will have to pay based on these parameters. Data consists of 1338 persons' records along with their insurance charges that they had paid.
